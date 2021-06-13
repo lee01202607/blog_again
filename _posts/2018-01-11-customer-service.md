@@ -2,7 +2,7 @@
 layout: post
 title:  "행거도어 관련 상품 추천"
 author: teddy
-categories: [ 가구 인테리어 ]
+categories: [ 가구, 인테리어 ]
 tags: [행거도어,행거도어 상세도,행거도어 부속,행거도어제작]
 image: assets/images/11.jpg
 description: "행거도어 관련 상품 추첮, 혼합색상"

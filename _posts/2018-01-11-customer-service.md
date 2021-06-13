@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+title:  "행거도어 관련 상품 추천"
+author: teddy
+categories: [ 가구 인테리어 ]
+tags: [행거도어,행거도어 상세도,행거도어 부속,행거도어제작]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "행거도어 관련 상품 추첮, 혼합색상"
 featured: true
 hidden: true
 rating: 4.5
